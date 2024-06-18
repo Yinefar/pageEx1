@@ -49,24 +49,24 @@ body {
     font-size: larger;
 }
 
-.feet {
+.links {
     background-color: transparent;
     color: azure;
 }
 
 /* Quita números de la lista ol en .feet */
-.feet ol {
+.links ol {
     list-style-type: none;
     padding-left: 0; /* Quitar la sangría predeterminada de la lista */
 }
 
 /* Estilo para los enlaces de .feet */
-.feet a {
+.links a {
     color: white;
    /*  text-decoration: none; Quitar subrayado de los enlaces */
 }
 
 /* Cambiar color del enlace al pasar el ratón */
-.feet a:hover {
+.links a:hover {
     color: #ed1f1f; /* Cambia el color cuando se apunta */
 }

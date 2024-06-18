@@ -1,3 +1,2 @@
 # pageEx1
-Turismo Perú 1 (Basic page) 
-To practice :)
+Turismo Perú | Page 1  | Perú, Cusco, Machu Picchu 

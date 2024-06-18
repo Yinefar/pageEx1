@@ -1,2 +1,2 @@
 # pageEx1
-Turismo Perú | Page 1  | Perú, Cusco, Machu Picchu 
+Turismo Perú | Page 1  |   Machu Picchu, Cusco, Perú 
